@@ -1,18 +1,18 @@
 # Python 5 item genshin/random Quiz
 
-questions = ("Who is the 77th Director of the Wangsheng Funeral Parlor ?",
-             "What is the name of dendro archon ?",
-             "What is most broken elemental reaction in genshin impact ?",
-             "What is the 4th planet in our solar system ?",
+questions = ("What is 1x1 ?",
+             "What is 2x2 ?",
+             "What is 7x7 ?",
+             "What is 4x4 ?",
              "What is 8x8 ?")
 
-options = (("A. Hu tao","B. Qiqi","C. Ganyu","D. Zhongli"),
-           ("A. Nahida","B. Raiden","C. Venti","D. Zhongli"),
-           ("A. melt","B. swril","C. Vaporized","D. Hyperbloom"),
-           ("A. Jupiter","B. Earth","C. Mars","D. Uranus"),
+options = (("A. 1","B. 5","C. 6","D. 7"),
+           ("A. 8","B. 4","C. 7","D. 2"),
+           ("A. 49","B. 15","C. 9","D. 20"),
+           ("A. 16","B. 10","C. 4","D. 80"),
            ("A. 64","B. 32","C. 18","D. 20"))
 
-answers = ("A","A","C","C","A")
+answers = ("A","B","A","A","A")
 guesses = []
 score = 0
 question_num = 0
