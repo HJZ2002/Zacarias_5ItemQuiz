@@ -1,4 +1,4 @@
-# Python 5 item genshin/random Quiz
+# Python 5 multiplication Quiz
 
 questions = ("What is 1x1 ?",
              "What is 2x2 ?",
